@@ -1,0 +1,13 @@
+.custom-tab {  
+    background-color: #f8f9fa; /* Example background color */  
+    border: 1px solid #dee2e6; /* Example border color */  
+  }  
+  
+  .custom-tab .nav-link {  
+    color: #495057; /* Tab text color */  
+  }  
+  
+  .custom-tab .nav-link.active {  
+    background-color: #007bff; /* Active tab background color */  
+    color: white; /* Active tab text color */  
+  }
